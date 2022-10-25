@@ -1,8 +1,4 @@
-/*
-	Name: 	Daniel Morales
-	EUID:	dm0698
-	Class: 	CSCE 3550.001 Foundationd of Cybersecurity
-	
+/*	
 	Reference Monitor secure program following the Biba Model
 */
 
